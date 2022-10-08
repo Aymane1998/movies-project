@@ -1,0 +1,5 @@
+git init
+git add .
+git commit 
+git remote add origin https://github.com/Aymane1998/movies-project.git
+git push -U origin master 
